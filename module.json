@@ -1,0 +1,60 @@
+{
+  "id": "crafting-console-drakkenheim",
+  "title": "Crafting Console - Drakkenheim",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Gabriel Plante",
+      "url": "https://www.patreon.com/c/anticsandrolls",
+      "discord": "kaallis",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "crafting-console-drakkenheim-items",
+      "label": "Crafting Console - Drakkenheim (Items)",
+      "path": "packs/crafting-console-drakkenheim-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "crafting-console-drakkenheim-macros",
+      "label": "Crafting Console - Drakkenheim (Macros)",
+      "path": "packs/crafting-console-drakkenheim-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "crafting-console",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "drakkenheim-monsters",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A FoundryVTT Module to add Monsters of Drakkenheim recipes to the Crafting Console module. Requires Monsters of Drakkenheim module."
+}

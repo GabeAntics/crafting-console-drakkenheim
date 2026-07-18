@@ -1,0 +1,15 @@
+2026/07/17-20:56:02.710 e3cc Recovering log #4
+2026/07/17-20:56:02.713 e3cc Delete type=0 #4
+2026/07/17-20:56:02.713 e3cc Delete type=3 #2
+2026/07/18-15:37:53.519 ef24 Level-0 table #9: started
+2026/07/18-15:37:53.535 ef24 Level-0 table #9: 24525 bytes OK
+2026/07/18-15:37:53.535 ef24 Delete type=0 #7
+2026/07/18-15:37:53.537 ef24 Manual compaction at level-0 from '!macros!Rks976K7q3MPdyiz' @ 72057594037927935 : 1 .. '!macros!jlrM6wiTPQpX4Q2l' @ 0 : 0; will stop at (end)
+2026/07/18-15:37:53.537 ef24 Manual compaction at level-1 from '!macros!Rks976K7q3MPdyiz' @ 72057594037927935 : 1 .. '!macros!jlrM6wiTPQpX4Q2l' @ 0 : 0; will stop at '!macros!jlrM6wiTPQpX4Q2l' @ 6 : 1
+2026/07/18-15:37:53.537 ef24 Compacting 1@1 + 1@2 files
+2026/07/18-15:37:53.544 ef24 Generated table #10@1: 2 keys, 16204 bytes
+2026/07/18-15:37:53.544 ef24 Compacted 1@1 + 1@2 files => 16204 bytes
+2026/07/18-15:37:53.544 ef24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/07/18-15:37:53.545 ef24 Delete type=2 #5
+2026/07/18-15:37:53.545 ef24 Delete type=2 #9
+2026/07/18-15:37:53.548 ef24 Manual compaction at level-1 from '!macros!jlrM6wiTPQpX4Q2l' @ 6 : 1 .. '!macros!jlrM6wiTPQpX4Q2l' @ 0 : 0; will stop at (end)
