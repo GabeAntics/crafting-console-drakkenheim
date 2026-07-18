@@ -44,8 +44,5 @@ Each ingredient has a family custom icon from https://game-icons.net/
 ### 6) How the recipes look in Crafting Console
 ![Recipe Example](<screenshots/Recipe example.png>)
 
-### 7) How the recipes look in Crafting Console
-![Recipe Example](<screenshots/Recipe example.png>)
-
-### 8) Having the compendium automatically expands the Crafting Console recipe list
+### 7) Having the compendium automatically expands the Crafting Console recipe list
 ![Crafting Console Recipe List](<screenshots/Recipe Registry With SRD Recipes.png>)
