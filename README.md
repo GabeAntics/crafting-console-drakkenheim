@@ -11,7 +11,6 @@ A macro can be used to generate ingredients on the fly:
 
 The ingredients created are all polished, contain summarized information to describe what it is and how it was generated.
 Each ingredient has a family custom icon from https://game-icons.net/
-![alt text](Screenshots/Ingredient.png)
 
 ## Suggested Workflow
 
