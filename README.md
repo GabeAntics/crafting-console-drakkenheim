@@ -42,25 +42,25 @@ In short: slay the monster, run the macro, and watch your crafting inventory com
 Replace these placeholders with your final screenshots.
 
 ### 1) Macro Prompt UI
-![Crafting Macro](./screenshots/Crafting Macro.png)
+![Crafting Macro](<screenshots/Crafting Macro.png>)
 
 ### 2) Macro Result
-![Crafting Macro Result](./screenshots/Crafting Macro Result.png)
+![Crafting Macro Result](<screenshots/Crafting Macro Result.png>)
 
 ### 3) Token Inventory
-![Token Inventory](./screenshots/token inventory.png)
+![Token Inventory](<screenshots/token inventory.png>)
 
 ### 4) List of Recipes in Compendium
-![List of Recipes in Compendium](./screenshots/List of Recipes in Compendium.png)
+![List of Recipes in Compendium](<screenshots/List of Recipes in Compendium.png>)
 
 ### 5) List of Recipes in Compendium
-![List of Recipes in Recipe Registry](./screenshots/List of Recipes in the Recipe Registry.png)
+![List of Recipes in Recipe Registry](<screenshots/List of Recipes in the Recipe Registry.png>)
 
 ### 6) How the recipes look in Crafting Console
-![Recipe Example](./screenshots/Recipe example.png)
+![Recipe Example](<screenshots/Recipe example.png>)
 
 ### 7) How the recipes look in Crafting Console
-![Recipe Example](./screenshots/Recipe example.png)
+![Recipe Example](<screenshots/Recipe example.png>)
 
 ### 8) Having the compendium automatically expands the Crafting Console recipe list
 ![Crafting Console Recipe List](<screenshots/Recipe Registry With SRD Recipes.png>)
