@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14",
+    "maximum": "14"
   },
   "url": "https://github.com/GabeAntics/crafting-console-drakkenheim",
   "manifest": "https://github.com/GabeAntics/crafting-console-drakkenheim/releases/download/v1.0.0/module.json",
