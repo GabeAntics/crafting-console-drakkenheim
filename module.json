@@ -8,6 +8,7 @@
     "maximum": "14"
   },
   "url": "https://github.com/GabeAntics/crafting-console-drakkenheim",
+  "changelog": "https://github.com/GabeAntics/crafting-console-drakkenheim/blob/main/CHANGELOG.md",
   "manifest": "https://github.com/GabeAntics/crafting-console-drakkenheim/releases/download/v1.2.0/module.json",
   "download": "https://github.com/GabeAntics/crafting-console-drakkenheim/releases/download/v1.2.0/module.zip",
   "authors": [
